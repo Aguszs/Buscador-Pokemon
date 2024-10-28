@@ -1,0 +1,26 @@
+@media (max-width:768px){
+
+
+.section{
+    margin: auto;
+}
+.imagen img{
+    margin: auto;
+   
+}
+#titulo{
+margin: auto;
+height: 100px;
+
+}
+.form__label{
+    text-align: center;
+    margin: auto;
+    font-size: 25px;
+}
+.img-error{
+height: fit-content;
+border-radius: 2rem;
+}
+
+}
